@@ -1,4 +1,4 @@
 # hello-world
 example repository
-In order to leaen i am following the git hub guide 
+In order to learn I am following the git hub guide 
 
